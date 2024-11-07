@@ -22,4 +22,3 @@ function jeu_devine_nombre()
     end
 end
 
-jeu_devine_nombre()
