@@ -1,5 +1,6 @@
 module TestPackage
 
-# Write your package code here.
+include("titi.jl")
+
 
 end
